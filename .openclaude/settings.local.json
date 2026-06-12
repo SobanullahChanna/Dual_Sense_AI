@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/A.J Computer''''''''s/Desktop/**)",
+      "Bash(fyp_env/Scripts/pip.exe install:*)",
+      "Bash(fyp_env/Scripts/python.exe -c \":*)",
+      "Bash(curl -s http://127.0.0.1:5001/api/status/models)",
+      "Bash(python -m json.tool)"
+    ]
+  }
+}
