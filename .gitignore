@@ -26,6 +26,7 @@ instance/
 # IDE
 .vscode/
 .idea/
+.openclaude/
 *.swp
 *.swo
 
